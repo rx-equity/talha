@@ -68,7 +68,7 @@ ScrollReveal({
 
      const typed = new Typed('.multiple-text', // <-- Add a closing parenthesis here
      {
-         strings: ['Full-Stack Developer', 'Web Design', 'Blogger'],
+         strings: ['Full-Stack Developer', 'Web Designer', 'Database Management'],
          typeSpeed: 100,
          backSpeed: 100,
          backDelay: 1000,
